@@ -17,11 +17,11 @@ public class DaysInMonthPrinter {
                 break;
 
             default:
-                System.out.println("Wrong number!");
+                System.out.println("wrong number!");
                 return;
         }
 
-        System.out.println("Days in month: " + days);
+        System.out.println(days);
     }
     }
 
